@@ -20,5 +20,6 @@ export default {
   prerender: {
     keepDistServer: true
   },
+  stream: "node",
   edge: true
 } satisfies Config;
