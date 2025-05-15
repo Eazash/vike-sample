@@ -19,5 +19,6 @@ export default {
   ],
   prerender: {
     keepDistServer: true
-  }
+  },
+  edge: true
 } satisfies Config;
